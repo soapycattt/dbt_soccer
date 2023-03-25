@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: src_eu_football
+    database: dzc-trietle
+
+    tables:
+      - name: matches
+      - name: transfers
