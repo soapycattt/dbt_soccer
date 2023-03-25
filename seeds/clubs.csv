@@ -1,0 +1,362 @@
+league,code,club
+Austrian Bundesliga,AKL,Austria Klagenfurt 
+Austrian Bundesliga,ALU,Austria Lustenau 
+Austrian Bundesliga,VIE,Austria Vienna
+Austrian Bundesliga,LIN,LASK Linz
+Austrian Bundesliga,RAV,Rapid Vienna
+Austrian Bundesliga,RBS,Red Bull Salzburg
+Austrian Bundesliga,RAL,Rheindorf Altach
+Austrian Bundesliga,SGR,Sturm Graz
+Austrian Bundesliga,SVR,SV Ried 
+Austrian Bundesliga,TSV,TSV Hartberg
+Austrian Bundesliga,WOL,Wolfsberger AC
+Austrian Bundesliga,WSG,WSG Wattens
+Danish Superliga,AAB,Aalborg BK
+Danish Superliga,ACH,AC Horsens 
+Danish Superliga,AGF,AGF Aarhus
+Danish Superliga,BIF,Brondby
+Danish Superliga,ESB,Esbjerg fB
+Danish Superliga,COP,FC Copenhagen
+Danish Superliga,FCM,FC Midtjylland
+Danish Superliga,FCN,FC Nordsjaelland
+Danish Superliga,HOB,Hobro IK
+Danish Superliga,LBB,Lyngby BK 
+Danish Superliga,ODE,Odense Boldklub
+Danish Superliga,RDF,Randers FC
+Danish Superliga,SIL,Silkeborg 
+Danish Superliga,VIB,Viborg FF 
+Dutch Eredivisie,AJA,Ajax Amsterdam
+Dutch Eredivisie,AZA,AZ Alkmaar
+Dutch Eredivisie,EXC,Excelsior
+Dutch Eredivisie,EMM,FC Emmen 
+Dutch Eredivisie,GRO,FC Groningen
+Dutch Eredivisie,TWE,FC Twente
+Dutch Eredivisie,UTR,FC Utrecht
+Dutch Eredivisie,VLN,FC Volendam 
+Dutch Eredivisie,FEY,Feyenoord
+Dutch Eredivisie,FST,Fortuna Sittard
+Dutch Eredivisie,GAE,Go Ahead Eagles 
+Dutch Eredivisie,NEC,NEC Nijmegen
+Dutch Eredivisie,PSV,PSV Eindhoven
+Dutch Eredivisie,WAA,RKC Waalwijk
+Dutch Eredivisie,CAM,SC Cambuur 
+Dutch Eredivisie,HEE,SC Heerenveen
+Dutch Eredivisie,SPR,Sparta Rotterdam
+Dutch Eredivisie,VIT,Vitesse Arnhem
+English Championship (2022-2023),BRC,Birmingham City
+English Championship (2022-2023),BBR,Blackburn Rovers
+English Championship (2022-2023),BLK,Blackpool
+English Championship (2022-2023),BSC,Bristol City
+English Championship (2022-2023),BUR,Burnley
+English Championship (2022-2023),CDF,Cardiff City
+English Championship (2022-2023),CVC,Coventry City
+English Championship (2022-2023),HDD,Huddersfield Town
+English Championship (2022-2023),HUL,Hull City
+English Championship (2022-2023),LUT,Luton Town
+English Championship (2022-2023),MID,Middlesbrough
+English Championship (2022-2023),MLW,Millwall
+English Championship (2022-2023),NOR,Norwich City
+English Championship (2022-2023),PNE,Preston North End
+English Championship (2022-2023),QPR,Queens Park Rangers
+English Championship (2022-2023),RDG,Reading
+English Championship (2022-2023),RTU,Rotherham United
+English Championship (2022-2023),SHU,Sheffield United
+English Championship (2022-2023),STK,Stoke City
+English Championship (2022-2023),SUN,Sunderland
+English Championship (2022-2023),SWA,Swansea City
+English Championship (2022-2023),WAT,Watford
+English Championship (2022-2023),WBA,West Bromwich Albion
+English Championship (2022-2023),WIG,Wigan Athletic
+English League One,ACC,Accrington Stanley
+English League One,BRS,Barnsley 
+English League One,BOL,Bolton Wanderers
+English League One,BRR,Bristol Rovers
+English League One,BRA,Burton Albion
+English League One,CMU,Cambridge United
+English League One,CHA,Charlton Athletic
+English League One,CTT,Cheltenham Town
+English League One,DRB,Derby County
+English League One,EXE,Exeter City
+English League One,FLT,Fleetwood Town
+English League One,FGR,Forest Green Rovers
+English League One,IPS,Ipswich Town
+English League One,LNC,Lincoln City
+English League One,MKD,Milton Keynes Dons
+English League One,MRC,Morecambe
+English League One,OXF,Oxford United
+English League One,PTU,Peterborough United
+English League One,PLA,Plymouth Argyle
+English League One,PTV,Port Vale
+English League One,PTM,Portsmouth
+English League One,SHF,Sheffield Wednesday
+English League One,SHT,Shrewsbury Town
+English League One,WYC,Wycombe Wanderers
+English League Two,AWM,AFC Wimbledon
+English League Two,BRW,Barrow
+English League Two,BDC,Bradford City
+English League Two,CRU,Carlise United
+English League Two,CLU,Colchester United
+English League Two,CRT,Crawley Town
+English League Two,CAX,Crewe Alexandra
+English League Two,DNR,Doncaster Rovers
+English League Two,GLG,Gillingham 
+English League Two,GBT,Grimsby Town
+English League Two,HAT,Harrogate Town
+English League Two,HAR,Hartlepool United
+English League Two,LEY,Leyton Orient
+English League Two,MSF,Mansfield Town
+English League Two,NPT,Newport County
+English League Two,NHT,Northampton Town
+English League Two,RCH,Rochdale
+English League Two,SAL,Salford City
+English League Two,STV,Stevenage
+English League Two,STO,Stockport County
+English League Two,SUU,Sutton United
+English League Two,SWI,Swindon Town
+English League Two,TRR,Tranmere Rovers
+English League Two,WSL,Walsall
+English National League,ADT,Aldershot Town
+English National League,AHM,Altrinham 
+English National League,BNT,Barnet
+English National League,BWD,Boreham Wood
+English National League,BMY,Bromley
+English National League,CFD,Chesterfield
+English National League,DGR,Dagenham & Redbridge
+English National League,DRK,Dorking Wanderers
+English National League,EST,Eastleigh
+English National League,FHT,FC Halifax Town
+English National League,GTH,Gateshead 
+English National League,MHU,Maidenhead United
+English National League,MDU,Maidstone United
+English National League,NOT,Notts County
+English National League,OAT,Oldham Athletic
+English National League,SCU,Scunthorpe United
+English National League,SOL,Solihull Moors
+English National League,SEU,Southend United
+English National League,TRU,Torquay United 
+English National League,WEA,Wealdstone 
+English National League,WOK,Woking 
+English National League,WXH,Wrexham
+English National League,YEO,Yeovil Town
+English National League,YOR,York City
+English Premier League,BOU,AFC Bournemouth
+English Premier League,ARS,Arsenal
+English Premier League,AVA,Aston Villa
+English Premier League,BRE,Brentford
+English Premier League,BRH,Brighton & Hove Albion
+English Premier League,CHE,Chelsea
+English Premier League,CRY,Crystal Palace
+English Premier League,EVE,Everton
+English Premier League,FUL,Fulham
+English Premier League,LEE,Leeds United
+English Premier League,LEI,Leicester City
+English Premier League,LIV,Liverpool
+English Premier League,MCI,Manchester City
+English Premier League,MUN,Manchester United
+English Premier League,NEW,Newcastle United
+English Premier League,NTG,Nottingham Forest
+English Premier League,SOU,Southampton
+English Premier League,TOT,Tottenham Hotspur
+English Premier League,WHU,West Ham United
+English Premier League,WLV,Wolverhampton Wanderers
+French Ligue 1,ACA,Ajaccio 
+French Ligue 1,ANG,Angers
+French Ligue 1,AUX,Auxerre 
+French Ligue 1,B29,Brest
+French Ligue 1,CLE,Clermont Foot
+French Ligue 1,LIL,Lille
+French Ligue 1,LOR,Lorient 
+French Ligue 1,AMO,Monaco
+French Ligue 1,MPL,Montpellier
+French Ligue 1,NAN,Nantes
+French Ligue 1,NCE,Nice
+French Ligue 1,LYO,Olympique Lyon
+French Ligue 1,OLM,Olympique Marseille
+French Ligue 1,PSG,Paris St Germain
+French Ligue 1,LEN,RC Lens 
+French Ligue 1,REI,Reims
+French Ligue 1,REN,Rennes 
+French Ligue 1,STR,Strasbourg
+French Ligue 1,TOU,Toulouse 
+French Ligue 1,TRO,Troyes 
+German Bundesliga,B04,Bayer Leverkusen
+German Bundesliga,BAY,Bayern Munich
+German Bundesliga,DOR,Borussia Dortmund
+German Bundesliga,BMG,Borussia Moenchengladbach
+German Bundesliga,CGN,Cologne
+German Bundesliga,SGE,Eintracht Frankfurt
+German Bundesliga,AUG,FC Augsburg
+German Bundesliga,SCF,Freiburg
+German Bundesliga,BCS,Hertha Berlin
+German Bundesliga,TSG,Hoffenheim
+German Bundesliga,MAI,Mainz 05
+German Bundesliga,RBL,RB Leipzig
+German Bundesliga,S04,Schalke 04
+German Bundesliga,UNB,Union Berlin
+German Bundesliga,STU,VfB Stuttgart
+German Bundesliga,BOC,VfL Bochum
+German Bundesliga,WOB,VfL Wolfsburg
+German Bundesliga,SVW,Werder Bremen
+German Bundesliga 2,BIE,Arminia Bielefeld
+German Bundesliga 2,DAR,Darmstadt 98
+German Bundesliga 2,EBR,Eintracht Braunschweig 
+German Bundesliga 2,MAG,FC Magdeburg 
+German Bundesliga 2,DUS,Fortuna Duesseldorf
+German Bundesliga 2,GRF,Greuther Fuerth
+German Bundesliga 2,HSV,Hamburg SV
+German Bundesliga 2,HAN,Hanover 96
+German Bundesliga 2,HRO,Hansa Rostock 
+German Bundesliga 2,HEI,Heidenheim
+German Bundesliga 2,HKI,Holstein Kiel
+German Bundesliga 2,JAH,Jahn Regensburg
+German Bundesliga 2,FCK,Kaiserslautern
+German Bundesliga 2,KSC,Karlsruher SC
+German Bundesliga 2,NUR,Nuremberg
+German Bundesliga 2,SAN,Sandhausen
+German Bundesliga 2,SCP,SC Paderborn
+German Bundesliga 2,PAU,St Pauli
+Greek Super League,AEK,AEK Athens
+Greek Super League,ART,Aris 
+Greek Super League,ATR,Asteras Tripolis
+Greek Super League,ATS,Atromitos
+Greek Super League,ION,Ionikos 
+Greek Super League,LAM,Lamia
+Greek Super League,LEV,Levadiakos
+Greek Super League,OFI,OFI Crete
+Greek Super League,OLY,Olympiacos
+Greek Super League,PAN,Panathanaikos
+Greek Super League,PTK,Panetolikos
+Greek Super League,PAO,PAOK
+Greek Super League,GIA,PAS Giannina 
+Greek Super League,VLO,Volos 
+Italian Serie A,MIL,AC Milan
+Italian Serie A,ROM,AS Roma
+Italian Serie A,ATT,Atalanta
+Italian Serie A,BGN,Bologna
+Italian Serie A,CRE,Cremonese
+Italian Serie A,EMP,Empoli
+Italian Serie A,FIO,Fiorentina
+Italian Serie A,HEL,Hellas Verona
+Italian Serie A,INT,Inter Milan
+Italian Serie A,JUV,Juventus
+Italian Serie A,LAZ,Lazio
+Italian Serie A,LEC,Lecce 
+Italian Serie A,MNZ,Monza
+Italian Serie A,NAP,Napoli
+Italian Serie A,USS,Salernitana 
+Italian Serie A,SAM,Sampdoria
+Italian Serie A,SAS,Sassuolo
+Italian Serie A,SPZ,Spezia Calcio 
+Italian Serie A,TOR,Torino
+Italian Serie A,UDI,Udinese
+Portuguese Primeira Liga,ARO,Arouca
+Portuguese Primeira Liga,SLB,Benfica
+Portuguese Primeira Liga,BOA,Boavista
+Portuguese Primeira Liga,CPA,Casa Pia 
+Portuguese Primeira Liga,ETR,Estoril 
+Portuguese Primeira Liga,FAM,Famalicao
+Portuguese Primeira Liga,POR,FC Porto
+Portuguese Primeira Liga,GDC,GD Chaves 
+Portuguese Primeira Liga,GVI,Gil Vicente
+Portuguese Primeira Liga,MTI,Maritimo
+Portuguese Primeira Liga,PAC,Pacos de Ferreira
+Portuguese Primeira Liga,PRT,Portimonense
+Portuguese Primeira Liga,RIO,Rio Ave 
+Portuguese Primeira Liga,SCL,Santa Clara
+Portuguese Primeira Liga,SBR,Sporting Braga
+Portuguese Primeira Liga,SLI,Sporting Lisbon
+Portuguese Primeira Liga,VDG,Vitoria Guimaraes
+Portuguese Primeira Liga,VIZ,Vizela 
+Russian Premier League,AKH,Akhmat Grozny
+Russian Premier League,CSK,CSKA Moscow
+Russian Premier League,DMO,Dynamo Moscow 
+Russian Premier League,FAK,Fakel Voronezh
+Russian Premier League,KRA,FC Krasnodar
+Russian Premier League,FCO,FC Orenburg
+Russian Premier League,FCR,FC Rostov
+Russian Premier League,FCU,FC Ural
+Russian Premier League,KHI,Khimki 
+Russian Premier League,KSS,Krylia Sovetov Samara
+Russian Premier League,LMO,Lokomotiv Moscow
+Russian Premier League,NIZ,Nizhny Novgorod
+Russian Premier League,SCH,PFC Sochi 
+Russian Premier League,SPM,Spartak Moscow
+Russian Premier League,TMO,Torpedo Moscow 
+Russian Premier League,ZSP,Zenit St Petersburg
+Scottish Premiership,ABE,Aberdeen
+Scottish Premiership,CEL,Celtic
+Scottish Premiership,DDU,Dundee United
+Scottish Premiership,HOM,Heart of Midlothian
+Scottish Premiership,HIB,Hibernian
+Scottish Premiership,KIL,Kilmarnock 
+Scottish Premiership,LFC,Livingston
+Scottish Premiership,MOT,Motherwell
+Scottish Premiership,RFC,Rangers
+Scottish Premiership,RSC,Ross County
+Scottish Premiership,STJ,St Johnstone
+Scottish Premiership,SMI,St Mirren
+Spanish LaLiga,UDA,Almeria
+Spanish LaLiga,ATB,Athletic Bilbao
+Spanish LaLiga,ATM,Atletico Madrid
+Spanish LaLiga,FCB,Barcelona
+Spanish LaLiga,CCF,Cadiz 
+Spanish LaLiga,CLV,Celta Vigo
+Spanish LaLiga,ELC,Elche
+Spanish LaLiga,ESY,Espanyol 
+Spanish LaLiga,GET,Getafe
+Spanish LaLiga,GIR,Girona
+Spanish LaLiga,OSA,Osasuna
+Spanish LaLiga,RAY,Rayo Vallecano
+Spanish LaLiga,RCD,RCD Mallorca 
+Spanish LaLiga,BET,Real Betis
+Spanish LaLiga,MAD,Real Madrid
+Spanish LaLiga,SOC,Real Sociedad
+Spanish LaLiga,REV,Real Valladolid 
+Spanish LaLiga,SEV,Sevilla
+Spanish LaLiga,VAL,Valencia
+Spanish LaLiga,VIL,Villarreal
+Swedish First Division (2023),AIK,AIK
+Swedish First Division (2023),BRO,Brommapojkarna 
+Swedish First Division (2023),DIF,Degerfors IF
+Swedish First Division (2023),DJU,Djurgarden
+Swedish First Division (2023),ELF,Elfsborg
+Swedish First Division (2023),HAC,Hacken
+Swedish First Division (2023),HAL,Halmstad
+Swedish First Division (2023),HAM,Hammarby
+Swedish First Division (2023),GOT,IFK Gothenburg
+Swedish First Division (2023),NRK,IFK Norrkoping
+Swedish First Division (2023),IKV,IFK Varnamo 
+Swedish First Division (2023),KAL,Kalmar
+Swedish First Division (2023),MAL,Malmo FF
+Swedish First Division (2023),MJA,Mjallby AIF 
+Swedish First Division (2023),SIR,Sirius
+Swedish First Division (2023),VBO,Varbergs BOIS
+Swiss Super League,BAS,Basel
+Swiss Super League,GRA,Grasshopper
+Swiss Super League,LUG,Lugano
+Swiss Super League,LUZ,Luzern
+Swiss Super League,SER,Servette
+Swiss Super League,SIO,Sion
+Swiss Super League,STG,St Gallen
+Swiss Super League,WIN,Winterthur 
+Swiss Super League,YBO,Young Boys
+Swiss Super League,ZUR,Zurich
+Turkish Super League,ADA,Adana Demirspor
+Turkish Super League,ANT,Alanyaspor
+Turkish Super League,ANY,Altay
+Turkish Super League,ANK,Antalyaspor
+Turkish Super League,BES,Besiktas
+Turkish Super League,FEN,Caykur Rizespor
+Turkish Super League,GAG,Fatih Karagumruk 
+Turkish Super League,FKA,Fenerbahce
+Turkish Super League,GSP,Galatasaray
+Turkish Super League,GAL,Gazisehir Gaziantep
+Turkish Super League,HTY,Giresunspor
+Turkish Super League,IBA,Goztepe
+Turkish Super League,ISB,Hatayspor 
+Turkish Super League,KAY,Istanbul Basaksehir
+Turkish Super League,KSK,Kasimpasa
+Turkish Super League,KON,Kayserispor
+Turkish Super League,SIV,Konyaspor
+Turkish Super League,TRA,Sivasspor
+Turkish Super League,UMR,Trabzonspor
