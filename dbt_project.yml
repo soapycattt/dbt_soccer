@@ -38,9 +38,17 @@ models:
       materialized: view
       schema: stg_soccer
       enabled: true
-    # mart:
-    #   +schema: mart
-    #   +materialized: table
+    
+    intermediate:
+      materialized: view
+      schema: int_soccer
+      enabled: true
+    
+    mart:
+      materialized: table
+      schema: mart_soccer
+      enabled: true
+
 
 vars:
   payment_type_values: [1, 2, 3, 4, 5, 6]
