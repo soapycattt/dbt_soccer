@@ -1,7 +1,12 @@
 {{
   config(
     materialized="table",
-    alias = "matches"
+    alias = "matches",
+    partition_by = {
+      'field': "match_date",
+      'data_type': "date",
+      'granularity': "year"
+    }
   )
 }}
 
